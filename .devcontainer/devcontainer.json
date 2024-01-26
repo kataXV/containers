@@ -1,0 +1,4 @@
+{
+  "name": "Ruby on Rails (Community)",
+  "image": "mcr.microsoft.com/devcontainers/ruby"
+}
